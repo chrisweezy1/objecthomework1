@@ -9,7 +9,7 @@ function Main () {
 			artist: "nicki minaj",
 			thelabelcompanyname: "cash money records",
 			thereleaseyear : "2018",
-			songs: ["ganga burns","majesty", "hard white", "chun li, maimi, llc, come see about me, good form"],
+			songs: ["ganga burns","majesty", "hard white", "chun li", "maimi", "llc", "come see about me", "good form"],
 		};
 
 		//excercise 2
@@ -18,7 +18,7 @@ function Main () {
 			artist: "nicki minaj",
 			thelabelcompanyname: "cash money records",
 			thereleaseyear : "2010",
-			songs: ["super base","here i am", "dear old nicki", "save me", "moment for life", , "check it out"],
+			songs: ["super base","here i am", "dear old nicki", "save me", "moment for life","check it out"],
 		};
 
 		// excercise 3
